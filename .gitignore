@@ -1,0 +1,10 @@
+# Virtual env
+sarki_env/
+venv/
+.env/
+
+# Mac
+.DS*/
+
+#models 
+models/
