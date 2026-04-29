@@ -19,11 +19,13 @@
 
 import os
 from transformers import (
-    AutoTokenizer,
+    AutoTokenizer, 
     AutoModelForSequenceClassification,
     AutoModelForSeq2SeqLM,
 )
-
+#AutoTokenizer metni sayıya çevirir (modelin anlayacağı dile)
+#AutoModelForSequenceClassification → duygu analizi yapar
+#AutoModelForSeq2SeqLM → özet çıkarır
 # ─────────────────────────────────────────
 # Kaydedilecek klasörler
 # ─────────────────────────────────────────

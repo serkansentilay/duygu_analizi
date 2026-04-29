@@ -80,3 +80,12 @@ duygu_analizi/
 ###       ş bana ne
 ###  ───────────────────────────────────────────────────────
 ###    ⚠️  Tür tahmini belirsiz — sanatçı adı verirsen daha doğru olur.
+
+
+
+# 2. deneme elle kelime ayirma
+# Hazır model kullanılmaz. Tamamen turkce_sarki_lexicon.csv
+# içindeki kelimelerin ağırlıklı geçiş olasılığına göre
+# tür ve duygu tahmini yapılır.
+
+## python3 third.py --dosya sozler1.csv
