@@ -60,6 +60,32 @@ ekle(["gözlerim yolda","yüreğim sızlıyor","bağrım yanık","can evimden vu
      "arabesk","acı","hüzün",0.92)
 ekle(["gün ola devran döne","ne oldum ne olacağım","kaderime küstüm","acılar içinde"],
      "arabesk","kader","çaresizlik",0.85)
+# ARABESK — ek kelimeler
+ekle(["ah çekiyorum","iniltiler","feryadım","sessiz çığlık","iç sızlısı","damla damla",
+      "kana kana","mahvettim","mahvoldum","helak oldum"],
+     "arabesk","acı","hüzün",0.90)
+ekle(["gözüm yaşlı kaldı","yaşlarım dindi","gözyaşlarım kurumaz","ağlamaktan gözlerim şişti"],
+     "arabesk","hüzün","hüzün",0.88)
+ekle(["haram olsun","lanet olsun","beddua","bedduam","Allah'a havale","yüzüne bakmam"],
+     "arabesk","isyan","öfke",0.82)
+ekle(["kaderin cilvesi","eller ne der","ne yapsam","ne eylesem","başım derde girdi"],
+     "arabesk","kader","çaresizlik",0.83)
+ekle(["kimsem yok dünyada","şu gurbette","yıllardır","bu çileli yolda","yıkık gönül"],
+     "arabesk","yalnızlık","hüzün",0.87)
+ekle(["rakı içtim","içkiye verdim kendimi","sarhoş ettim kederimi","kafayı çektim"],
+     "arabesk","yalnızlık","hüzün",0.80)
+ekle(["mezar","mezarda","kabir","toprağa düşmek","son toprak","göçüp gitmek"],
+     "arabesk","karanlık","hüzün",0.85)
+ekle(["yazık bana","yazık sana","ne idim ne oldum","bir zamanlar","eskiden"],
+     "arabesk","kader","hüzün",0.80)
+ekle(["dağlar kadar derdim var","deniz gibi gözyaşım","sel gibi aktı","fırtına koptu içimde"],
+     "arabesk","acı","hüzün",0.88)
+ekle(["geç artık","git artık","bırak beni","rahat bırak","yeter bu acılar"],
+     "arabesk","ayrılık","öfke",0.83)
+ekle(["gönül yarası","yürek yarası","yara sarılmaz","iz kaldı","skat","hasret çekiyorum"],
+     "arabesk","ayrılık","hüzün",0.87)
+ekle(["vicdansız","merhametsiz","kalpsiz","taş kalpli","buz gibi","soğuk yürekli"],
+     "arabesk","isyan","öfke",0.85)     
 
 # HALK
 ekle(["yayla","yaylada","yaylalar","yaylım","dağ","dağlar","dağda","dağbaşı","dağ yolu"],
@@ -104,6 +130,34 @@ ekle(["köylüm","hemşerim","hemşehrilerim","ağabey","kardeş","komşu","ahal
      "halk","gelenek","nostalji",0.78)
 ekle(["nefes","nefesler","ilahi","ilahiler"],
      "halk","gelenek","nostalji",0.85)
+ekle(["Anadolu'nun bağrı","yurt hasreti","diyar diyar","el kapısı","öz yurt"],
+     "halk","vatan","nostalji",0.88)
+ekle(["horasan","İran","Rumeli","Balkanlar","göçmen","göç yolu","yurt özlemi"],
+     "halk","gelenek","nostalji",0.83)
+ekle(["derviş meşrebi","pir aşkı","yol kardeşi","can kardeşi","cem","cemde"],
+     "halk","gelenek","huzur",0.85)
+ekle(["armut","elma","erik","vişne","kiraz","meyve bahçesi","bağbozumu"],
+     "halk","doğa","mutluluk",0.75)
+ekle(["kar yağıyor","kar altında","kış uykusu","donan toprak","dondurucu"],
+     "halk","doğa","hüzün",0.75)
+ekle(["harman","harman yeri","döven","tahıl","buğday","arpa","çavdar"],
+     "halk","emek","gurur",0.78)
+ekle(["ağıt yaktım","ağıt yakan","mersiye","mersiyeler","kara haber"],
+     "halk","hüzün","hüzün",0.85)
+ekle(["gelin alayı","güvey","damat","düğün evi","halay","kol kola"],
+     "halk","sevinç","mutluluk",0.82)
+ekle(["tülbent","yemeni","boncuk","gümüş takı","tel kırma","oya"],
+     "halk","gelenek","nostalji",0.78)
+ekle(["dede","nine","büyükanne","büyükbaba","ocak başında","aile sofrası"],
+     "halk","gelenek","nostalji",0.80)
+ekle(["kar üstünde iz","ayak izi","yol izi","dağ izi","selvi boylu"],
+     "halk","özlem","hüzün",0.80)
+ekle(["sabah namazı","ezan sesi","minare","cami","camii avlusu"],
+     "halk","gelenek","huzur",0.78)
+ekle(["yurt burcu","yurt kokusu","toprak kokusu","çimen kokusu","çiy kokusu"],
+     "halk","doğa","huzur",0.78)
+ekle(["dilek diledim","murada erdim","niyet ettim","adak adadım"],
+     "halk","gelenek","huzur",0.76)
 
 # HALK ROCK
 ekle(["toprak","toprağım","toprağa","bu topraklar","vatan toprağı","ana toprak","kara toprak"],
@@ -136,6 +190,26 @@ ekle(["haksız","haksızlık","adaletsiz","adalet yok","vicdansız","vicdansızl
      "halk_rock","isyan","öfke",0.87)
 ekle(["özgürce uçmak"],
      "halk_rock","özgürlük","umut",0.85)
+ekle(["halkın türküsü","halk için","ezilenler","ezilen halk","sömürülen"],
+     "halk_rock","eşitsizlik","öfke",0.90)
+ekle(["ülkem için","yurdun için","vatan için","şehit","şehitler","can verdik"],
+     "halk_rock","vatan","gurur",0.88)
+ekle([" grev","direniş","barikat","barikatta","ön cephede","ön saflarda"],
+     "halk_rock","isyan","öfke",0.88)
+ekle(["haksız düzen","bozuk düzen","çürük sistem","bu düzen bozulacak"],
+     "halk_rock","isyan","öfke",0.90)
+ekle(["söz hakkımız","sesimizi kısma","susturamassın","haykırmaya devam"],
+     "halk_rock","isyan","öfke",0.92)
+ekle(["dayanışma","el ele","omuz omuza","birlik","beraberlik","birlikte güçlüyüz"],
+     "halk_rock","dayanışma","umut",0.87)
+ekle(["toprak reformu","köy enstitüsü","eğitim hakkı","okuma yazma"],
+     "halk_rock","emek","gurur",0.80)
+ekle(["Pir Sultan","Karacaoğlan","Dadaloğlu","Köroğlu","Yunus","Yunus Emre"],
+     "halk_rock","gelenek","nostalji",0.85)
+ekle(["özgür dünya","daha iyi yarın","yeni düzen","eşit dünya","adil dünya"],
+     "halk_rock","özgürlük","umut",0.88)
+ekle(["kavgamız sürecek","mücadelemiz bitmez","yılmayacağız","geri adım atmak yok"],
+     "halk_rock","isyan","öfke",0.90)
 
 # ROCK
 ekle(["çığlık","çığlığım","çığlık atmak","bağır","bağırıyorum","haykırmak","haykırıyorum"],
@@ -166,6 +240,31 @@ ekle(["nefret","nefret ediyorum","nefretle","iğreniyorum","tiksiniyorum"],
      "rock","isyan","öfke",0.93)
 ekle(["içimde fırtınalar","her şey yalan","gece bitmez sandım"],
      "rock","isyan","öfke",0.88)
+ekle(["distorsiyon","riff","heavy","grunge","punk","metal çığlığı","amplifikatör"],
+     "rock","müzik","güç",0.83)
+ekle(["duman içinde","dumanlı sahne","siyah giysi","siyah bayrak","karanlık sahne"],
+     "rock","karanlık","korku",0.80)
+ekle(["çığlık atmak","bağıra bağıra","kahretsin","kahrolsun","defol"],
+     "rock","isyan","öfke",0.90)
+ekle(["iç çöküşü","ruhsal çöküş","zihin karanlığı","beyin yıkama","manipülasyon"],
+     "rock","karanlık","öfke",0.87)
+ekle(["yıkıntı arasında","küllerden doğmak","yeniden dirilmek","feniksin gibi"],
+     "rock","çöküş","güç",0.83)
+ekle(["özgür ruh","bağımsız ruh","etiket yok","kural tanımıyorum","sınır tanımam"],
+     "rock","özgürlük","güç",0.87)
+ekle(["sis içinde","sisin içinde","yok oluyorum","varlık yokluk","anlamsızlık"],
+     "rock","karanlık","hüzün",0.83)
+ekle(["acımasız dünya","acımasızca","kanlı tırnak","dişler çıktı","savaşan ruh"],
+     "rock","isyan","öfke",0.87)
+ekle(["duman tüten","kül olmuş","yanıp kül","toz duman","enkaz altında"],
+     "rock","çöküş","hüzün",0.83)
+ekle(["nefes alamıyorum","boğuluyorum","sıkışıp kaldım","kafes içinde","hapsoldum"],
+     "rock","isyan","öfke",0.85)
+ekle(["yaşamak istemiyorum","ölmek gibi hissediyorum","ruhum çıktı","içim boşaldı"],
+     "rock","karanlık","hüzün",0.82)
+ekle(["adrenalin","adrenalini","reaksiyon","patlama","patlamaya hazır","volkan"],
+     "rock","güç","güç",0.85)
+
 
 # RAP
 ekle(["flow","flowum","flow atmak","kafiye","bars","bar attım","verse","rime"],
@@ -198,6 +297,33 @@ ekle(["sokak bizi yetiştirdi","gerçeği söylüyorum","mikrofon elimde","sözl
      "rap","müzik","güç",0.88)
 ekle(["sahte dostlar","ihanet","yalnız bıraktı"],
      "rap","yalnızlık","öfke",0.83)
+ekle(["mix","miksaj","prodüksiyon","prodüktör","yapım","kayıt stüdyosu","albüm"],
+     "rap","müzik","güç",0.83)
+ekle(["sahada","sahada büyüdük","mahallede","geceyi gündüz ettim","yolun başında"],
+     "rap","gerçeklik","gerçeklik",0.85)
+ekle(["altın kolye","marka","lüks","araba","Porsche","ayakkabı","sneaker"],
+     "rap","güç","hırs",0.78)
+ekle(["haters","haset","çekemeyenler","bana çamur atanlar","kıskanç bakışlar"],
+     "rap","kimlik","öfke",0.82)
+ekle(["özgünlük","özgünum","taklit yok","kendi sesim","kendim gibiyim"],
+     "rap","kimlik","gurur",0.83)
+ekle(["toplumsal baskı","şartlanma","önyargı","önyargılarla savaş","klişe"],
+     "rap","isyan","öfke",0.83)
+ekle(["sabırlıyım","sabredeceğim","emek vereceğim","çalışmak","çalışıyorum"],
+     "rap","emek","gurur",0.80)
+ekle(["türkçe rap","yerli müzik","yer altı","underground","bağımsız","indie"],
+     "rap","müzik","güç",0.80)
+ekle(["punch line","hook","nakarat","bridge","intro","outro"],
+     "rap","müzik","güç",0.80)
+ekle(["şehrin lambası","gece yarısı şehri","sokak lambası","karanlık sokak"],
+     "rap","gerçeklik","hüzün",0.80)
+ekle(["kimliğim var","köküm var","nereden geldiğimi bilirim","geçmişim var"],
+     "rap","kimlik","gurur",0.83)
+ekle(["dedim ya","anladın mı","bak buraya","dinle beni","dikkat et"],
+     "rap","gerçeklik","güç",0.75)
+ekle(["diss yedim","diss attım","yanıt verdim","hesap sorduk","hesaplaştık"],
+     "rap","isyan","öfke",0.82)
+
 
 # SANAT
 ekle(["ney","neyin","neyle","ney sesi","kaval","ud","ude"],
@@ -222,6 +348,30 @@ ekle(["mürşit","pir","pirim","üstat","üstadım","hoca"],
      "sanat","ruhanilik","huzur",0.82)
 ekle(["şiir","şiirim","mısra","mısralar","dize","dizeler","nazım"],
      "sanat","şiir","huzur",0.85)
+ekle(["hat sanatı","tezhip","ebru","minyatür","çini","mozaik","sedefkârlık"],
+     "sanat","gelenek","huzur",0.82)
+ekle(["divân edebiyatı","divan şairi","aruz","hece","redif","kafiye"],
+     "sanat","şiir","huzur",0.83)
+ekle(["tekkede","dergahta","halvette","sohbette","ders halkasında"],
+     "sanat","ruhanilik","huzur",0.85)
+ekle(["Mevlana","Hacı Bektaş","Yunus","Fuzuli","Baki","Nedim","Şeyh Galip"],
+     "sanat","gelenek","nostalji",0.85)
+ekle(["neyzen","udî","kemençe","kanunî","hafız","müezzin","ilahici"],
+     "sanat","müzik","huzur",0.85)
+ekle(["sema","semah","zikir halkası","zikir sesi","tekbir","salavat"],
+     "sanat","ruhanilik","huzur",0.88)
+ekle(["adab","erkân","yol","erkan","talip","muhibban"],
+     "sanat","ruhanilik","huzur",0.82)
+ekle(["terennüm","nağme","nağmeler","makam perdesi","koma","seyir"],
+     "sanat","müzik","huzur",0.85)
+ekle(["gönül erleri","hakikat yolu","irfan meclisi","ehl-i dil","ehl-i aşk"],
+     "sanat","ruhanilik","huzur",0.83)
+ekle(["osmanlı","osmanlıca","beyit","kıta","murabba","muhammes","terci"],
+     "sanat","gelenek","nostalji",0.80)
+ekle(["ses titremesi","vibrato","portamento","glissando","duygusal ton"],
+     "sanat","müzik","huzur",0.80)
+
+
 
 # POP
 ekle(["dans","dans et","dans ediyorum","dans edelim","hareket","hareket et","oyna"],
@@ -248,6 +398,46 @@ ekle(["güzel","çok güzel","çok güzelsin","harika","mükemmel","muhteşem"],
      "pop","aşk","mutluluk",0.78)
 ekle(["neşeli","keyifli","keyifle","güzel vakit","güzel an"],
      "pop","sevinç","mutluluk",0.80)
+ekle(["playlist","şarkı listesi","kulaklık","kulaklıkla","repeat","yeniden dinle"],
+     "pop","müzik","mutluluk",0.72)
+ekle(["sosyal medya","paylaşım","reels","hikaye","story","gönderi","beğeni"],
+     "pop","eğlence","mutluluk",0.68)
+ekle(["gece çıktık","bar","kulüp","klüp","gece hayatı","sahne aldım"],
+     "pop","eğlence","mutluluk",0.75)
+ekle(["ayna karşısında","makyaj","saç","stil değişimi","dönüşüm","yeni ben"],
+     "pop","kimlik","gurur",0.72)
+ekle(["tatil planları","uçak bileti","valize","bavul","yola düştüm"],
+     "pop","eğlence","mutluluk",0.70)
+ekle(["iki bardak","kadeh kaldır","tost","kutlama zamanı","şerefe"],
+     "pop","eğlence","mutluluk",0.75)
+ekle(["mor","sarı","kırmızı","mavi renk","rengarenk","renkli dünya"],
+     "pop","sevinç","mutluluk",0.68)
+ekle(["fısıldıyorsun","kulağıma","gözlerinden","bakışlarından","dokunuşunda"],
+     "pop","aşk","aşk",0.83)
+ekle(["taksi","metro","bus","akşam saatinde","şehir ışıkları","trafikte"],
+     "pop","yalnızlık","hüzün",0.70)
+ekle(["kalbim hızlı atıyor","nefesim kesildi","dili tutuldu","söz bulamadım"],
+     "pop","aşk","aşk",0.83)
+ekle(["ilk görüşte","anlık","o an","o saniye","ilk bakış","ilk söz"],
+     "pop","aşk","aşk",0.82)
+ekle(["şirinsin","tatlısın","ne kadar güzelsin","mükemmelsin","harikasın"],
+     "pop","aşk","mutluluk",0.78)
+ekle(["uyuyamıyorum","gözüme uyku girmiyor","sabaha kadar","bekliyorum seni"],
+     "pop","özlem","hüzün",0.83)
+ekle(["mesafe","uzaklık","kilometre","deniz aşırı","farklı şehirlerde"],
+     "pop","özlem","hüzün",0.82)
+ekle(["sevgi dili","dokunuş","hediye","zaman","söz","beklenti","anlayış"],
+     "pop","aşk","aşk",0.78)
+ekle(["sarıldığında","koklarken","gülüşünde","sesinde","sende","yalnız sende"],
+     "pop","aşk","aşk",0.85)
+ekle(["kırgınlık","kırıldım","incidin mi","üzdüm mü","özür dilerim"],
+     "pop","ayrılık","hüzün",0.80)
+ekle(["bitmek bilmiyor","bitmiyor mu","ne zaman bitecek","bitmesini istedim"],
+     "pop","ayrılık","hüzün",0.80)
+ekle(["küstüm","küs oldum","barışalım mı","küskünüz","barışmak istiyorum"],
+     "pop","kıskançlık","hüzün",0.80)
+
+
 
 # AŞK / AYRILIK / ÖZLEM
 ekle(["aşk","aşkım","sevgi","sevgim","sevda","yar","yarım","tutku","tutkuyla","arzu"],
@@ -358,6 +548,61 @@ ekle(["merak","merak ediyorum","bilmek istiyorum","sır","sırlar"],
      "pop","merak","şaşkınlık",0.75)
 ekle(["bıktım","bıktım artık","bunaldım","çıldırıyorum","sabrım kalmadı"],
      "pop","isyan","öfke",0.88)
+# ELEKTRONİK / POP DANS — yeni tür eklentisi
+ekle(["drop","beat drop","bass","bas","bum bum","elektronik","synth","synthesizer"],
+     "pop","müzik","güç",0.85)
+ekle(["dancefloor","dans pisti","pist","gece yarısı dans","vücut","ritme kapıldım"],
+     "pop","eğlence","mutluluk",0.83)
+ekle(["neon ışık","lazer","sahne ışıkları","soyut","renk cümbüşü"],
+     "pop","eğlence","mutluluk",0.75)
+ekle(["echo","yankı","reverb","ince ses","ses efekti","arpej"],
+     "pop","müzik","huzur",0.72)
+
+# YENİ DUYGULAR — ek
+ekle(["affetmek","affettim","affedebilir miyim","içimdeki kini bıraktım"],
+     "pop","pişmanlık","huzur",0.80)
+ekle(["teşekkür ederim","minnettarım","şükür","şükrediyorum"],
+     "pop","sevinç","mutluluk",0.75)
+ekle(["inanmıyorum","kabul edemiyorum","reddediyorum","hayır demek","dur demek"],
+     "pop","isyan","öfke",0.80)
+ekle(["ne hissediyorum","duygulanmak","duygulandım","gözlerim doldu","boğazım düğümlendi"],
+     "pop","hüzün","hüzün",0.80)
+ekle(["çelişki","çelişiyorum","ikircikli","kararsızım","ne yapmalıyım"],
+     "pop","korku","şaşkınlık",0.72)
+ekle(["kendini yok saydın","görmezden geldin","umursamadın","değer vermedin"],
+     "pop","ayrılık","öfke",0.85)
+ekle(["anlayış","anlamak","anla beni","beni anla","kimse anlamıyor"],
+     "pop","yalnızlık","hüzün",0.80)
+ekle(["ego","egom var","gururumu eğmedim","eğmem","kibir","kibirli"],
+     "pop","kimlik","güç",0.75)
+
+# DOĞA / ÇEVRE
+ekle(["ormanda","orman içinde","çam kokusu","çam ormanı","ağaç gövdesi"],
+     "halk","doğa","huzur",0.80)
+ekle(["kuş sesi","kuş şakıması","sabah kuşları","ötüyor","ötüşü"],
+     "halk","doğa","huzur",0.78)
+ekle(["yağmur","yağmur altında","yağmurlu gün","damla damla","yağmur sesi"],
+     "pop","yalnızlık","hüzün",0.78)
+ekle(["şimşek çaktı","gök gürültüsü","fırtına öncesi","bulutlar toplandı"],
+     "rock","karanlık","korku",0.78)
+ekle(["mevsim değişiyor","sonbahar","sararan yapraklar","dökülen yaprak","güz"],
+     "pop","nostalji","hüzün",0.78)
+ekle(["ilkbahar çiçekleri","bahar yağmuru","bahar havası","tomurcuklar açtı"],
+     "pop","umut","mutluluk",0.75)
+ekle(["güneş batıyor","batmakta olan güneş","akşam gökyüzü","kızıl bulutlar"],
+     "pop","hüzün","hüzün",0.75)
+ekle(["okyanusta","denizin dibinde","dalgaların altında","suya daldım"],
+     "pop","özlem","hüzün",0.75)
+
+# ZIT DUYGULAR
+ekle(["hem seviyorum hem nefret ediyorum","aşk mı nefret mi","karmaşık duygular"],
+     "pop","kıskançlık","öfke",0.80)
+ekle(["ağlarken gülmek","gülerken ağlamak","gülen gözlerle ağlamak"],
+     "pop","hüzün","hüzün",0.80)
+ekle(["karanlıkta umut","acıdan güç almak","dertlerimden ders aldım"],
+     "arabesk","kader","hüzün",0.80)
+ekle(["bitmek üzere ama bitmedi","tükenmek üzere ama durdum","son nefeste","son anda"],
+     "arabesk","kader","hüzün",0.83)
 
 # FİİL TÜREVLERİ
 fiil_ekler = [

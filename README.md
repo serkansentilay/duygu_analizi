@@ -83,7 +83,7 @@ duygu_analizi/
 
 
 
-# 2. deneme elle kelime ayirma
+# 2. deneme  kelime agirlikli analiz
 # Hazır model kullanılmaz. Tamamen turkce_sarki_lexicon.csv
 # içindeki kelimelerin ağırlıklı geçiş olasılığına göre
 # tür ve duygu tahmini yapılır.

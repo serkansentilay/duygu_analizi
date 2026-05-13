@@ -198,6 +198,71 @@ gün ola devran döne,arabesk,kader,çaresizlik,0.85
 ne oldum ne olacağım,arabesk,kader,çaresizlik,0.85
 kaderime küstüm,arabesk,kader,çaresizlik,0.85
 acılar içinde,arabesk,kader,çaresizlik,0.85
+ah çekiyorum,arabesk,acı,hüzün,0.9
+iniltiler,arabesk,acı,hüzün,0.9
+feryadım,arabesk,acı,hüzün,0.9
+sessiz çığlık,arabesk,acı,hüzün,0.9
+iç sızlısı,arabesk,acı,hüzün,0.9
+damla damla,arabesk,acı,hüzün,0.9
+kana kana,arabesk,acı,hüzün,0.9
+mahvettim,arabesk,acı,hüzün,0.9
+mahvoldum,arabesk,acı,hüzün,0.9
+helak oldum,arabesk,acı,hüzün,0.9
+gözüm yaşlı kaldı,arabesk,hüzün,hüzün,0.88
+yaşlarım dindi,arabesk,hüzün,hüzün,0.88
+gözyaşlarım kurumaz,arabesk,hüzün,hüzün,0.88
+ağlamaktan gözlerim şişti,arabesk,hüzün,hüzün,0.88
+haram olsun,arabesk,isyan,öfke,0.82
+lanet olsun,arabesk,isyan,öfke,0.82
+beddua,arabesk,isyan,öfke,0.82
+bedduam,arabesk,isyan,öfke,0.82
+Allah'a havale,arabesk,isyan,öfke,0.82
+yüzüne bakmam,arabesk,isyan,öfke,0.82
+kaderin cilvesi,arabesk,kader,çaresizlik,0.83
+eller ne der,arabesk,kader,çaresizlik,0.83
+ne yapsam,arabesk,kader,çaresizlik,0.83
+ne eylesem,arabesk,kader,çaresizlik,0.83
+başım derde girdi,arabesk,kader,çaresizlik,0.83
+kimsem yok dünyada,arabesk,yalnızlık,hüzün,0.87
+şu gurbette,arabesk,yalnızlık,hüzün,0.87
+yıllardır,arabesk,yalnızlık,hüzün,0.87
+bu çileli yolda,arabesk,yalnızlık,hüzün,0.87
+yıkık gönül,arabesk,yalnızlık,hüzün,0.87
+rakı içtim,arabesk,yalnızlık,hüzün,0.8
+içkiye verdim kendimi,arabesk,yalnızlık,hüzün,0.8
+sarhoş ettim kederimi,arabesk,yalnızlık,hüzün,0.8
+kafayı çektim,arabesk,yalnızlık,hüzün,0.8
+mezar,arabesk,karanlık,hüzün,0.85
+mezarda,arabesk,karanlık,hüzün,0.85
+kabir,arabesk,karanlık,hüzün,0.85
+toprağa düşmek,arabesk,karanlık,hüzün,0.85
+son toprak,arabesk,karanlık,hüzün,0.85
+göçüp gitmek,arabesk,karanlık,hüzün,0.85
+yazık bana,arabesk,kader,hüzün,0.8
+yazık sana,arabesk,kader,hüzün,0.8
+ne idim ne oldum,arabesk,kader,hüzün,0.8
+bir zamanlar,arabesk,kader,hüzün,0.8
+eskiden,arabesk,kader,hüzün,0.8
+dağlar kadar derdim var,arabesk,acı,hüzün,0.88
+deniz gibi gözyaşım,arabesk,acı,hüzün,0.88
+sel gibi aktı,arabesk,acı,hüzün,0.88
+fırtına koptu içimde,arabesk,acı,hüzün,0.88
+geç artık,arabesk,ayrılık,öfke,0.83
+git artık,arabesk,ayrılık,öfke,0.83
+bırak beni,arabesk,ayrılık,öfke,0.83
+rahat bırak,arabesk,ayrılık,öfke,0.83
+yeter bu acılar,arabesk,ayrılık,öfke,0.83
+gönül yarası,arabesk,ayrılık,hüzün,0.87
+yürek yarası,arabesk,ayrılık,hüzün,0.87
+yara sarılmaz,arabesk,ayrılık,hüzün,0.87
+iz kaldı,arabesk,ayrılık,hüzün,0.87
+skat,arabesk,ayrılık,hüzün,0.87
+hasret çekiyorum,arabesk,ayrılık,hüzün,0.87
+vicdansız,arabesk,isyan,öfke,0.85
+kalpsiz,arabesk,isyan,öfke,0.85
+taş kalpli,arabesk,isyan,öfke,0.85
+buz gibi,arabesk,isyan,öfke,0.85
+soğuk yürekli,arabesk,isyan,öfke,0.85
 yayla,halk,doğa,huzur,0.92
 yaylada,halk,doğa,huzur,0.92
 yaylalar,halk,doğa,huzur,0.92
@@ -346,6 +411,85 @@ nefes,halk,gelenek,nostalji,0.85
 nefesler,halk,gelenek,nostalji,0.85
 ilahi,halk,gelenek,nostalji,0.85
 ilahiler,halk,gelenek,nostalji,0.85
+Anadolu'nun bağrı,halk,vatan,nostalji,0.88
+yurt hasreti,halk,vatan,nostalji,0.88
+diyar diyar,halk,vatan,nostalji,0.88
+el kapısı,halk,vatan,nostalji,0.88
+öz yurt,halk,vatan,nostalji,0.88
+horasan,halk,gelenek,nostalji,0.83
+İran,halk,gelenek,nostalji,0.83
+Rumeli,halk,gelenek,nostalji,0.83
+Balkanlar,halk,gelenek,nostalji,0.83
+göçmen,halk,gelenek,nostalji,0.83
+göç yolu,halk,gelenek,nostalji,0.83
+yurt özlemi,halk,gelenek,nostalji,0.83
+derviş meşrebi,halk,gelenek,huzur,0.85
+pir aşkı,halk,gelenek,huzur,0.85
+yol kardeşi,halk,gelenek,huzur,0.85
+can kardeşi,halk,gelenek,huzur,0.85
+cem,halk,gelenek,huzur,0.85
+cemde,halk,gelenek,huzur,0.85
+armut,halk,doğa,mutluluk,0.75
+elma,halk,doğa,mutluluk,0.75
+erik,halk,doğa,mutluluk,0.75
+vişne,halk,doğa,mutluluk,0.75
+kiraz,halk,doğa,mutluluk,0.75
+meyve bahçesi,halk,doğa,mutluluk,0.75
+bağbozumu,halk,doğa,mutluluk,0.75
+kar yağıyor,halk,doğa,hüzün,0.75
+kar altında,halk,doğa,hüzün,0.75
+kış uykusu,halk,doğa,hüzün,0.75
+donan toprak,halk,doğa,hüzün,0.75
+dondurucu,halk,doğa,hüzün,0.75
+harman,halk,emek,gurur,0.78
+harman yeri,halk,emek,gurur,0.78
+döven,halk,emek,gurur,0.78
+tahıl,halk,emek,gurur,0.78
+buğday,halk,emek,gurur,0.78
+arpa,halk,emek,gurur,0.78
+çavdar,halk,emek,gurur,0.78
+ağıt yaktım,halk,hüzün,hüzün,0.85
+ağıt yakan,halk,hüzün,hüzün,0.85
+mersiye,halk,hüzün,hüzün,0.85
+mersiyeler,halk,hüzün,hüzün,0.85
+kara haber,halk,hüzün,hüzün,0.85
+gelin alayı,halk,sevinç,mutluluk,0.82
+güvey,halk,sevinç,mutluluk,0.82
+damat,halk,sevinç,mutluluk,0.82
+düğün evi,halk,sevinç,mutluluk,0.82
+halay,halk,sevinç,mutluluk,0.82
+kol kola,halk,sevinç,mutluluk,0.82
+tülbent,halk,gelenek,nostalji,0.78
+yemeni,halk,gelenek,nostalji,0.78
+boncuk,halk,gelenek,nostalji,0.78
+gümüş takı,halk,gelenek,nostalji,0.78
+tel kırma,halk,gelenek,nostalji,0.78
+oya,halk,gelenek,nostalji,0.78
+dede,halk,gelenek,nostalji,0.8
+nine,halk,gelenek,nostalji,0.8
+büyükanne,halk,gelenek,nostalji,0.8
+büyükbaba,halk,gelenek,nostalji,0.8
+ocak başında,halk,gelenek,nostalji,0.8
+aile sofrası,halk,gelenek,nostalji,0.8
+kar üstünde iz,halk,özlem,hüzün,0.8
+ayak izi,halk,özlem,hüzün,0.8
+yol izi,halk,özlem,hüzün,0.8
+dağ izi,halk,özlem,hüzün,0.8
+selvi boylu,halk,özlem,hüzün,0.8
+sabah namazı,halk,gelenek,huzur,0.78
+ezan sesi,halk,gelenek,huzur,0.78
+minare,halk,gelenek,huzur,0.78
+cami,halk,gelenek,huzur,0.78
+camii avlusu,halk,gelenek,huzur,0.78
+yurt burcu,halk,doğa,huzur,0.78
+yurt kokusu,halk,doğa,huzur,0.78
+toprak kokusu,halk,doğa,huzur,0.78
+çimen kokusu,halk,doğa,huzur,0.78
+çiy kokusu,halk,doğa,huzur,0.78
+dilek diledim,halk,gelenek,huzur,0.76
+murada erdim,halk,gelenek,huzur,0.76
+niyet ettim,halk,gelenek,huzur,0.76
+adak adadım,halk,gelenek,huzur,0.76
 toprak,halk_rock,vatan,gurur,0.9
 toprağım,halk_rock,vatan,gurur,0.9
 toprağa,halk_rock,vatan,gurur,0.9
@@ -441,6 +585,54 @@ adalet yok,halk_rock,isyan,öfke,0.87
 vicdansız,halk_rock,isyan,öfke,0.87
 vicdansızlık,halk_rock,isyan,öfke,0.87
 özgürce uçmak,halk_rock,özgürlük,umut,0.85
+halkın türküsü,halk_rock,eşitsizlik,öfke,0.9
+halk için,halk_rock,eşitsizlik,öfke,0.9
+ezilenler,halk_rock,eşitsizlik,öfke,0.9
+ezilen halk,halk_rock,eşitsizlik,öfke,0.9
+sömürülen,halk_rock,eşitsizlik,öfke,0.9
+ülkem için,halk_rock,vatan,gurur,0.88
+yurdun için,halk_rock,vatan,gurur,0.88
+vatan için,halk_rock,vatan,gurur,0.88
+şehit,halk_rock,vatan,gurur,0.88
+şehitler,halk_rock,vatan,gurur,0.88
+can verdik,halk_rock,vatan,gurur,0.88
+grev,halk_rock,isyan,öfke,0.88
+barikat,halk_rock,isyan,öfke,0.88
+barikatta,halk_rock,isyan,öfke,0.88
+ön cephede,halk_rock,isyan,öfke,0.88
+ön saflarda,halk_rock,isyan,öfke,0.88
+haksız düzen,halk_rock,isyan,öfke,0.9
+bozuk düzen,halk_rock,isyan,öfke,0.9
+çürük sistem,halk_rock,isyan,öfke,0.9
+bu düzen bozulacak,halk_rock,isyan,öfke,0.9
+söz hakkımız,halk_rock,isyan,öfke,0.92
+sesimizi kısma,halk_rock,isyan,öfke,0.92
+susturamassın,halk_rock,isyan,öfke,0.92
+haykırmaya devam,halk_rock,isyan,öfke,0.92
+dayanışma,halk_rock,dayanışma,umut,0.87
+el ele,halk_rock,dayanışma,umut,0.87
+omuz omuza,halk_rock,dayanışma,umut,0.87
+birlik,halk_rock,dayanışma,umut,0.87
+beraberlik,halk_rock,dayanışma,umut,0.87
+toprak reformu,halk_rock,emek,gurur,0.8
+köy enstitüsü,halk_rock,emek,gurur,0.8
+eğitim hakkı,halk_rock,emek,gurur,0.8
+okuma yazma,halk_rock,emek,gurur,0.8
+Pir Sultan,halk_rock,gelenek,nostalji,0.85
+Karacaoğlan,halk_rock,gelenek,nostalji,0.85
+Dadaloğlu,halk_rock,gelenek,nostalji,0.85
+Köroğlu,halk_rock,gelenek,nostalji,0.85
+Yunus,halk_rock,gelenek,nostalji,0.85
+Yunus Emre,halk_rock,gelenek,nostalji,0.85
+özgür dünya,halk_rock,özgürlük,umut,0.88
+daha iyi yarın,halk_rock,özgürlük,umut,0.88
+yeni düzen,halk_rock,özgürlük,umut,0.88
+eşit dünya,halk_rock,özgürlük,umut,0.88
+adil dünya,halk_rock,özgürlük,umut,0.88
+kavgamız sürecek,halk_rock,isyan,öfke,0.9
+mücadelemiz bitmez,halk_rock,isyan,öfke,0.9
+yılmayacağız,halk_rock,isyan,öfke,0.9
+geri adım atmak yok,halk_rock,isyan,öfke,0.9
 çığlık,rock,isyan,öfke,0.95
 çığlığım,rock,isyan,öfke,0.95
 çığlık atmak,rock,isyan,öfke,0.95
@@ -531,6 +723,66 @@ tiksiniyorum,rock,isyan,öfke,0.93
 içimde fırtınalar,rock,isyan,öfke,0.88
 her şey yalan,rock,isyan,öfke,0.88
 gece bitmez sandım,rock,isyan,öfke,0.88
+distorsiyon,rock,müzik,güç,0.83
+riff,rock,müzik,güç,0.83
+heavy,rock,müzik,güç,0.83
+grunge,rock,müzik,güç,0.83
+punk,rock,müzik,güç,0.83
+metal çığlığı,rock,müzik,güç,0.83
+amplifikatör,rock,müzik,güç,0.83
+duman içinde,rock,karanlık,korku,0.8
+dumanlı sahne,rock,karanlık,korku,0.8
+siyah giysi,rock,karanlık,korku,0.8
+siyah bayrak,rock,karanlık,korku,0.8
+karanlık sahne,rock,karanlık,korku,0.8
+bağıra bağıra,rock,isyan,öfke,0.9
+kahretsin,rock,isyan,öfke,0.9
+kahrolsun,rock,isyan,öfke,0.9
+defol,rock,isyan,öfke,0.9
+iç çöküşü,rock,karanlık,öfke,0.87
+ruhsal çöküş,rock,karanlık,öfke,0.87
+zihin karanlığı,rock,karanlık,öfke,0.87
+beyin yıkama,rock,karanlık,öfke,0.87
+manipülasyon,rock,karanlık,öfke,0.87
+yıkıntı arasında,rock,çöküş,güç,0.83
+küllerden doğmak,rock,çöküş,güç,0.83
+yeniden dirilmek,rock,çöküş,güç,0.83
+feniksin gibi,rock,çöküş,güç,0.83
+özgür ruh,rock,özgürlük,güç,0.87
+bağımsız ruh,rock,özgürlük,güç,0.87
+etiket yok,rock,özgürlük,güç,0.87
+kural tanımıyorum,rock,özgürlük,güç,0.87
+sınır tanımam,rock,özgürlük,güç,0.87
+sis içinde,rock,karanlık,hüzün,0.83
+sisin içinde,rock,karanlık,hüzün,0.83
+yok oluyorum,rock,karanlık,hüzün,0.83
+varlık yokluk,rock,karanlık,hüzün,0.83
+anlamsızlık,rock,karanlık,hüzün,0.83
+acımasız dünya,rock,isyan,öfke,0.87
+acımasızca,rock,isyan,öfke,0.87
+kanlı tırnak,rock,isyan,öfke,0.87
+dişler çıktı,rock,isyan,öfke,0.87
+savaşan ruh,rock,isyan,öfke,0.87
+duman tüten,rock,çöküş,hüzün,0.83
+kül olmuş,rock,çöküş,hüzün,0.83
+yanıp kül,rock,çöküş,hüzün,0.83
+toz duman,rock,çöküş,hüzün,0.83
+enkaz altında,rock,çöküş,hüzün,0.83
+nefes alamıyorum,rock,isyan,öfke,0.85
+boğuluyorum,rock,isyan,öfke,0.85
+sıkışıp kaldım,rock,isyan,öfke,0.85
+kafes içinde,rock,isyan,öfke,0.85
+hapsoldum,rock,isyan,öfke,0.85
+yaşamak istemiyorum,rock,karanlık,hüzün,0.82
+ölmek gibi hissediyorum,rock,karanlık,hüzün,0.82
+ruhum çıktı,rock,karanlık,hüzün,0.82
+içim boşaldı,rock,karanlık,hüzün,0.82
+adrenalin,rock,güç,güç,0.85
+adrenalini,rock,güç,güç,0.85
+reaksiyon,rock,güç,güç,0.85
+patlama,rock,güç,güç,0.85
+patlamaya hazır,rock,güç,güç,0.85
+volkan,rock,güç,güç,0.85
 flow,rap,müzik,güç,0.95
 flowum,rap,müzik,güç,0.95
 flow atmak,rap,müzik,güç,0.95
@@ -630,6 +882,75 @@ beat üstüne,rap,müzik,güç,0.88
 sahte dostlar,rap,yalnızlık,öfke,0.83
 ihanet,rap,yalnızlık,öfke,0.83
 yalnız bıraktı,rap,yalnızlık,öfke,0.83
+mix,rap,müzik,güç,0.83
+miksaj,rap,müzik,güç,0.83
+prodüksiyon,rap,müzik,güç,0.83
+prodüktör,rap,müzik,güç,0.83
+yapım,rap,müzik,güç,0.83
+kayıt stüdyosu,rap,müzik,güç,0.83
+albüm,rap,müzik,güç,0.83
+sahada,rap,gerçeklik,gerçeklik,0.85
+sahada büyüdük,rap,gerçeklik,gerçeklik,0.85
+mahallede,rap,gerçeklik,gerçeklik,0.85
+geceyi gündüz ettim,rap,gerçeklik,gerçeklik,0.85
+yolun başında,rap,gerçeklik,gerçeklik,0.85
+altın kolye,rap,güç,hırs,0.78
+marka,rap,güç,hırs,0.78
+lüks,rap,güç,hırs,0.78
+araba,rap,güç,hırs,0.78
+Porsche,rap,güç,hırs,0.78
+ayakkabı,rap,güç,hırs,0.78
+sneaker,rap,güç,hırs,0.78
+haters,rap,kimlik,öfke,0.82
+haset,rap,kimlik,öfke,0.82
+çekemeyenler,rap,kimlik,öfke,0.82
+bana çamur atanlar,rap,kimlik,öfke,0.82
+kıskanç bakışlar,rap,kimlik,öfke,0.82
+özgünlük,rap,kimlik,gurur,0.83
+özgünum,rap,kimlik,gurur,0.83
+taklit yok,rap,kimlik,gurur,0.83
+kendi sesim,rap,kimlik,gurur,0.83
+kendim gibiyim,rap,kimlik,gurur,0.83
+toplumsal baskı,rap,isyan,öfke,0.83
+şartlanma,rap,isyan,öfke,0.83
+önyargı,rap,isyan,öfke,0.83
+önyargılarla savaş,rap,isyan,öfke,0.83
+klişe,rap,isyan,öfke,0.83
+sabırlıyım,rap,emek,gurur,0.8
+sabredeceğim,rap,emek,gurur,0.8
+emek vereceğim,rap,emek,gurur,0.8
+çalışmak,rap,emek,gurur,0.8
+çalışıyorum,rap,emek,gurur,0.8
+türkçe rap,rap,müzik,güç,0.8
+yerli müzik,rap,müzik,güç,0.8
+yer altı,rap,müzik,güç,0.8
+underground,rap,müzik,güç,0.8
+bağımsız,rap,müzik,güç,0.8
+indie,rap,müzik,güç,0.8
+punch line,rap,müzik,güç,0.8
+hook,rap,müzik,güç,0.8
+nakarat,rap,müzik,güç,0.8
+bridge,rap,müzik,güç,0.8
+intro,rap,müzik,güç,0.8
+outro,rap,müzik,güç,0.8
+şehrin lambası,rap,gerçeklik,hüzün,0.8
+gece yarısı şehri,rap,gerçeklik,hüzün,0.8
+sokak lambası,rap,gerçeklik,hüzün,0.8
+karanlık sokak,rap,gerçeklik,hüzün,0.8
+kimliğim var,rap,kimlik,gurur,0.83
+köküm var,rap,kimlik,gurur,0.83
+nereden geldiğimi bilirim,rap,kimlik,gurur,0.83
+geçmişim var,rap,kimlik,gurur,0.83
+dedim ya,rap,gerçeklik,güç,0.75
+anladın mı,rap,gerçeklik,güç,0.75
+bak buraya,rap,gerçeklik,güç,0.75
+dinle beni,rap,gerçeklik,güç,0.75
+dikkat et,rap,gerçeklik,güç,0.75
+diss yedim,rap,isyan,öfke,0.82
+diss attım,rap,isyan,öfke,0.82
+yanıt verdim,rap,isyan,öfke,0.82
+hesap sorduk,rap,isyan,öfke,0.82
+hesaplaştık,rap,isyan,öfke,0.82
 ney,sanat,müzik,huzur,0.95
 neyin,sanat,müzik,huzur,0.95
 neyle,sanat,müzik,huzur,0.95
@@ -704,6 +1025,71 @@ mısralar,sanat,şiir,huzur,0.85
 dize,sanat,şiir,huzur,0.85
 dizeler,sanat,şiir,huzur,0.85
 nazım,sanat,şiir,huzur,0.85
+hat sanatı,sanat,gelenek,huzur,0.82
+tezhip,sanat,gelenek,huzur,0.82
+ebru,sanat,gelenek,huzur,0.82
+minyatür,sanat,gelenek,huzur,0.82
+çini,sanat,gelenek,huzur,0.82
+mozaik,sanat,gelenek,huzur,0.82
+sedefkârlık,sanat,gelenek,huzur,0.82
+divân edebiyatı,sanat,şiir,huzur,0.83
+divan şairi,sanat,şiir,huzur,0.83
+aruz,sanat,şiir,huzur,0.83
+hece,sanat,şiir,huzur,0.83
+redif,sanat,şiir,huzur,0.83
+kafiye,sanat,şiir,huzur,0.83
+tekkede,sanat,ruhanilik,huzur,0.85
+dergahta,sanat,ruhanilik,huzur,0.85
+halvette,sanat,ruhanilik,huzur,0.85
+sohbette,sanat,ruhanilik,huzur,0.85
+ders halkasında,sanat,ruhanilik,huzur,0.85
+Mevlana,sanat,gelenek,nostalji,0.85
+Hacı Bektaş,sanat,gelenek,nostalji,0.85
+Yunus,sanat,gelenek,nostalji,0.85
+Fuzuli,sanat,gelenek,nostalji,0.85
+Baki,sanat,gelenek,nostalji,0.85
+Nedim,sanat,gelenek,nostalji,0.85
+Şeyh Galip,sanat,gelenek,nostalji,0.85
+neyzen,sanat,müzik,huzur,0.85
+udî,sanat,müzik,huzur,0.85
+kemençe,sanat,müzik,huzur,0.85
+kanunî,sanat,müzik,huzur,0.85
+hafız,sanat,müzik,huzur,0.85
+müezzin,sanat,müzik,huzur,0.85
+ilahici,sanat,müzik,huzur,0.85
+sema,sanat,ruhanilik,huzur,0.88
+zikir halkası,sanat,ruhanilik,huzur,0.88
+zikir sesi,sanat,ruhanilik,huzur,0.88
+tekbir,sanat,ruhanilik,huzur,0.88
+salavat,sanat,ruhanilik,huzur,0.88
+adab,sanat,ruhanilik,huzur,0.82
+erkân,sanat,ruhanilik,huzur,0.82
+yol,sanat,ruhanilik,huzur,0.82
+erkan,sanat,ruhanilik,huzur,0.82
+talip,sanat,ruhanilik,huzur,0.82
+muhibban,sanat,ruhanilik,huzur,0.82
+terennüm,sanat,müzik,huzur,0.85
+nağme,sanat,müzik,huzur,0.85
+nağmeler,sanat,müzik,huzur,0.85
+makam perdesi,sanat,müzik,huzur,0.85
+koma,sanat,müzik,huzur,0.85
+seyir,sanat,müzik,huzur,0.85
+gönül erleri,sanat,ruhanilik,huzur,0.83
+hakikat yolu,sanat,ruhanilik,huzur,0.83
+irfan meclisi,sanat,ruhanilik,huzur,0.83
+ehl-i dil,sanat,ruhanilik,huzur,0.83
+ehl-i aşk,sanat,ruhanilik,huzur,0.83
+osmanlı,sanat,gelenek,nostalji,0.8
+osmanlıca,sanat,gelenek,nostalji,0.8
+beyit,sanat,gelenek,nostalji,0.8
+murabba,sanat,gelenek,nostalji,0.8
+muhammes,sanat,gelenek,nostalji,0.8
+terci,sanat,gelenek,nostalji,0.8
+ses titremesi,sanat,müzik,huzur,0.8
+vibrato,sanat,müzik,huzur,0.8
+portamento,sanat,müzik,huzur,0.8
+glissando,sanat,müzik,huzur,0.8
+duygusal ton,sanat,müzik,huzur,0.8
 dans,pop,eğlence,mutluluk,0.9
 dans et,pop,eğlence,mutluluk,0.9
 dans ediyorum,pop,eğlence,mutluluk,0.9
@@ -785,6 +1171,109 @@ keyifli,pop,sevinç,mutluluk,0.8
 keyifle,pop,sevinç,mutluluk,0.8
 güzel vakit,pop,sevinç,mutluluk,0.8
 güzel an,pop,sevinç,mutluluk,0.8
+playlist,pop,müzik,mutluluk,0.72
+şarkı listesi,pop,müzik,mutluluk,0.72
+kulaklık,pop,müzik,mutluluk,0.72
+kulaklıkla,pop,müzik,mutluluk,0.72
+repeat,pop,müzik,mutluluk,0.72
+yeniden dinle,pop,müzik,mutluluk,0.72
+sosyal medya,pop,eğlence,mutluluk,0.68
+paylaşım,pop,eğlence,mutluluk,0.68
+reels,pop,eğlence,mutluluk,0.68
+hikaye,pop,eğlence,mutluluk,0.68
+story,pop,eğlence,mutluluk,0.68
+gönderi,pop,eğlence,mutluluk,0.68
+beğeni,pop,eğlence,mutluluk,0.68
+gece çıktık,pop,eğlence,mutluluk,0.75
+bar,pop,eğlence,mutluluk,0.75
+kulüp,pop,eğlence,mutluluk,0.75
+klüp,pop,eğlence,mutluluk,0.75
+gece hayatı,pop,eğlence,mutluluk,0.75
+sahne aldım,pop,eğlence,mutluluk,0.75
+ayna karşısında,pop,kimlik,gurur,0.72
+makyaj,pop,kimlik,gurur,0.72
+saç,pop,kimlik,gurur,0.72
+stil değişimi,pop,kimlik,gurur,0.72
+dönüşüm,pop,kimlik,gurur,0.72
+yeni ben,pop,kimlik,gurur,0.72
+tatil planları,pop,eğlence,mutluluk,0.7
+uçak bileti,pop,eğlence,mutluluk,0.7
+valize,pop,eğlence,mutluluk,0.7
+bavul,pop,eğlence,mutluluk,0.7
+yola düştüm,pop,eğlence,mutluluk,0.7
+iki bardak,pop,eğlence,mutluluk,0.75
+kadeh kaldır,pop,eğlence,mutluluk,0.75
+tost,pop,eğlence,mutluluk,0.75
+kutlama zamanı,pop,eğlence,mutluluk,0.75
+şerefe,pop,eğlence,mutluluk,0.75
+mor,pop,sevinç,mutluluk,0.68
+sarı,pop,sevinç,mutluluk,0.68
+kırmızı,pop,sevinç,mutluluk,0.68
+mavi renk,pop,sevinç,mutluluk,0.68
+rengarenk,pop,sevinç,mutluluk,0.68
+renkli dünya,pop,sevinç,mutluluk,0.68
+fısıldıyorsun,pop,aşk,aşk,0.83
+kulağıma,pop,aşk,aşk,0.83
+gözlerinden,pop,aşk,aşk,0.83
+bakışlarından,pop,aşk,aşk,0.83
+dokunuşunda,pop,aşk,aşk,0.83
+taksi,pop,yalnızlık,hüzün,0.7
+metro,pop,yalnızlık,hüzün,0.7
+bus,pop,yalnızlık,hüzün,0.7
+akşam saatinde,pop,yalnızlık,hüzün,0.7
+şehir ışıkları,pop,yalnızlık,hüzün,0.7
+trafikte,pop,yalnızlık,hüzün,0.7
+kalbim hızlı atıyor,pop,aşk,aşk,0.83
+nefesim kesildi,pop,aşk,aşk,0.83
+dili tutuldu,pop,aşk,aşk,0.83
+söz bulamadım,pop,aşk,aşk,0.83
+ilk görüşte,pop,aşk,aşk,0.82
+anlık,pop,aşk,aşk,0.82
+o an,pop,aşk,aşk,0.82
+o saniye,pop,aşk,aşk,0.82
+ilk bakış,pop,aşk,aşk,0.82
+ilk söz,pop,aşk,aşk,0.82
+şirinsin,pop,aşk,mutluluk,0.78
+tatlısın,pop,aşk,mutluluk,0.78
+ne kadar güzelsin,pop,aşk,mutluluk,0.78
+mükemmelsin,pop,aşk,mutluluk,0.78
+harikasın,pop,aşk,mutluluk,0.78
+uyuyamıyorum,pop,özlem,hüzün,0.83
+gözüme uyku girmiyor,pop,özlem,hüzün,0.83
+sabaha kadar,pop,özlem,hüzün,0.83
+bekliyorum seni,pop,özlem,hüzün,0.83
+mesafe,pop,özlem,hüzün,0.82
+uzaklık,pop,özlem,hüzün,0.82
+kilometre,pop,özlem,hüzün,0.82
+deniz aşırı,pop,özlem,hüzün,0.82
+farklı şehirlerde,pop,özlem,hüzün,0.82
+sevgi dili,pop,aşk,aşk,0.78
+dokunuş,pop,aşk,aşk,0.78
+hediye,pop,aşk,aşk,0.78
+zaman,pop,aşk,aşk,0.78
+söz,pop,aşk,aşk,0.78
+beklenti,pop,aşk,aşk,0.78
+anlayış,pop,aşk,aşk,0.78
+sarıldığında,pop,aşk,aşk,0.85
+koklarken,pop,aşk,aşk,0.85
+gülüşünde,pop,aşk,aşk,0.85
+sesinde,pop,aşk,aşk,0.85
+sende,pop,aşk,aşk,0.85
+yalnız sende,pop,aşk,aşk,0.85
+kırgınlık,pop,ayrılık,hüzün,0.8
+kırıldım,pop,ayrılık,hüzün,0.8
+incidin mi,pop,ayrılık,hüzün,0.8
+üzdüm mü,pop,ayrılık,hüzün,0.8
+özür dilerim,pop,ayrılık,hüzün,0.8
+bitmek bilmiyor,pop,ayrılık,hüzün,0.8
+bitmiyor mu,pop,ayrılık,hüzün,0.8
+ne zaman bitecek,pop,ayrılık,hüzün,0.8
+bitmesini istedim,pop,ayrılık,hüzün,0.8
+küstüm,pop,kıskançlık,hüzün,0.8
+küs oldum,pop,kıskançlık,hüzün,0.8
+barışalım mı,pop,kıskançlık,hüzün,0.8
+küskünüz,pop,kıskançlık,hüzün,0.8
+barışmak istiyorum,pop,kıskançlık,hüzün,0.8
 aşk,pop,aşk,aşk,0.95
 sevgi,pop,aşk,aşk,0.95
 sevgim,pop,aşk,aşk,0.95
@@ -1045,7 +1534,6 @@ heyecanlı,pop,heyecan,mutluluk,0.82
 coştu,pop,heyecan,mutluluk,0.82
 titriyor,pop,heyecan,mutluluk,0.82
 titriyorum,pop,heyecan,mutluluk,0.82
-beklenti,pop,heyecan,mutluluk,0.82
 pişmanlık,pop,pişmanlık,hüzün,0.85
 pişmanım,pop,pişmanlık,hüzün,0.85
 pişman oldum,pop,pişmanlık,hüzün,0.85
@@ -1061,6 +1549,116 @@ bıktım artık,pop,isyan,öfke,0.88
 bunaldım,pop,isyan,öfke,0.88
 çıldırıyorum,pop,isyan,öfke,0.88
 sabrım kalmadı,pop,isyan,öfke,0.88
+drop,pop,müzik,güç,0.85
+beat drop,pop,müzik,güç,0.85
+bass,pop,müzik,güç,0.85
+bas,pop,müzik,güç,0.85
+bum bum,pop,müzik,güç,0.85
+elektronik,pop,müzik,güç,0.85
+synth,pop,müzik,güç,0.85
+synthesizer,pop,müzik,güç,0.85
+dancefloor,pop,eğlence,mutluluk,0.83
+dans pisti,pop,eğlence,mutluluk,0.83
+pist,pop,eğlence,mutluluk,0.83
+gece yarısı dans,pop,eğlence,mutluluk,0.83
+vücut,pop,eğlence,mutluluk,0.83
+ritme kapıldım,pop,eğlence,mutluluk,0.83
+neon ışık,pop,eğlence,mutluluk,0.75
+lazer,pop,eğlence,mutluluk,0.75
+sahne ışıkları,pop,eğlence,mutluluk,0.75
+soyut,pop,eğlence,mutluluk,0.75
+renk cümbüşü,pop,eğlence,mutluluk,0.75
+echo,pop,müzik,huzur,0.72
+yankı,pop,müzik,huzur,0.72
+reverb,pop,müzik,huzur,0.72
+ince ses,pop,müzik,huzur,0.72
+ses efekti,pop,müzik,huzur,0.72
+arpej,pop,müzik,huzur,0.72
+affetmek,pop,pişmanlık,huzur,0.8
+affettim,pop,pişmanlık,huzur,0.8
+affedebilir miyim,pop,pişmanlık,huzur,0.8
+içimdeki kini bıraktım,pop,pişmanlık,huzur,0.8
+teşekkür ederim,pop,sevinç,mutluluk,0.75
+minnettarım,pop,sevinç,mutluluk,0.75
+şükür,pop,sevinç,mutluluk,0.75
+şükrediyorum,pop,sevinç,mutluluk,0.75
+inanmıyorum,pop,isyan,öfke,0.8
+kabul edemiyorum,pop,isyan,öfke,0.8
+reddediyorum,pop,isyan,öfke,0.8
+hayır demek,pop,isyan,öfke,0.8
+dur demek,pop,isyan,öfke,0.8
+ne hissediyorum,pop,hüzün,hüzün,0.8
+duygulanmak,pop,hüzün,hüzün,0.8
+duygulandım,pop,hüzün,hüzün,0.8
+gözlerim doldu,pop,hüzün,hüzün,0.8
+boğazım düğümlendi,pop,hüzün,hüzün,0.8
+çelişki,pop,korku,şaşkınlık,0.72
+çelişiyorum,pop,korku,şaşkınlık,0.72
+ikircikli,pop,korku,şaşkınlık,0.72
+kararsızım,pop,korku,şaşkınlık,0.72
+ne yapmalıyım,pop,korku,şaşkınlık,0.72
+kendini yok saydın,pop,ayrılık,öfke,0.85
+görmezden geldin,pop,ayrılık,öfke,0.85
+umursamadın,pop,ayrılık,öfke,0.85
+değer vermedin,pop,ayrılık,öfke,0.85
+anlamak,pop,yalnızlık,hüzün,0.8
+anla beni,pop,yalnızlık,hüzün,0.8
+beni anla,pop,yalnızlık,hüzün,0.8
+kimse anlamıyor,pop,yalnızlık,hüzün,0.8
+ego,pop,kimlik,güç,0.75
+egom var,pop,kimlik,güç,0.75
+gururumu eğmedim,pop,kimlik,güç,0.75
+eğmem,pop,kimlik,güç,0.75
+kibir,pop,kimlik,güç,0.75
+kibirli,pop,kimlik,güç,0.75
+ormanda,halk,doğa,huzur,0.8
+orman içinde,halk,doğa,huzur,0.8
+çam kokusu,halk,doğa,huzur,0.8
+çam ormanı,halk,doğa,huzur,0.8
+ağaç gövdesi,halk,doğa,huzur,0.8
+kuş sesi,halk,doğa,huzur,0.78
+kuş şakıması,halk,doğa,huzur,0.78
+sabah kuşları,halk,doğa,huzur,0.78
+ötüyor,halk,doğa,huzur,0.78
+ötüşü,halk,doğa,huzur,0.78
+yağmur,pop,yalnızlık,hüzün,0.78
+yağmur altında,pop,yalnızlık,hüzün,0.78
+yağmurlu gün,pop,yalnızlık,hüzün,0.78
+damla damla,pop,yalnızlık,hüzün,0.78
+yağmur sesi,pop,yalnızlık,hüzün,0.78
+şimşek çaktı,rock,karanlık,korku,0.78
+fırtına öncesi,rock,karanlık,korku,0.78
+bulutlar toplandı,rock,karanlık,korku,0.78
+mevsim değişiyor,pop,nostalji,hüzün,0.78
+sonbahar,pop,nostalji,hüzün,0.78
+sararan yapraklar,pop,nostalji,hüzün,0.78
+dökülen yaprak,pop,nostalji,hüzün,0.78
+güz,pop,nostalji,hüzün,0.78
+ilkbahar çiçekleri,pop,umut,mutluluk,0.75
+bahar yağmuru,pop,umut,mutluluk,0.75
+bahar havası,pop,umut,mutluluk,0.75
+tomurcuklar açtı,pop,umut,mutluluk,0.75
+güneş batıyor,pop,hüzün,hüzün,0.75
+batmakta olan güneş,pop,hüzün,hüzün,0.75
+akşam gökyüzü,pop,hüzün,hüzün,0.75
+kızıl bulutlar,pop,hüzün,hüzün,0.75
+okyanusta,pop,özlem,hüzün,0.75
+denizin dibinde,pop,özlem,hüzün,0.75
+dalgaların altında,pop,özlem,hüzün,0.75
+suya daldım,pop,özlem,hüzün,0.75
+hem seviyorum hem nefret ediyorum,pop,kıskançlık,öfke,0.8
+aşk mı nefret mi,pop,kıskançlık,öfke,0.8
+karmaşık duygular,pop,kıskançlık,öfke,0.8
+ağlarken gülmek,pop,hüzün,hüzün,0.8
+gülerken ağlamak,pop,hüzün,hüzün,0.8
+gülen gözlerle ağlamak,pop,hüzün,hüzün,0.8
+karanlıkta umut,arabesk,kader,hüzün,0.8
+acıdan güç almak,arabesk,kader,hüzün,0.8
+dertlerimden ders aldım,arabesk,kader,hüzün,0.8
+bitmek üzere ama bitmedi,arabesk,kader,hüzün,0.83
+tükenmek üzere ama durdum,arabesk,kader,hüzün,0.83
+son nefeste,arabesk,kader,hüzün,0.83
+son anda,arabesk,kader,hüzün,0.83
 sev,pop,aşk,aşk,0.88
 sevil,pop,aşk,aşk,0.88
 seviş,pop,aşk,aşk,0.88
